@@ -1,6 +1,7 @@
 run:
   skip-dirs:
     - examples
+    #test
 
 linters:
   disable-all: true
